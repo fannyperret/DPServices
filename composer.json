@@ -1,0 +1,11 @@
+{
+    "name": "wcs/fanny",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Funny Rose",
+            "email": "fannyperretlombard@gmail.com"
+        }
+    ],
+    "require": {}
+}
