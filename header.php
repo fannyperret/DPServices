@@ -5,9 +5,9 @@
         </div>
         <ul class="nav navbar-nav">
             <li class="active"><a href="index.php">Accueil</a></li>
-            <li><a href="#">Salle de bain</a></li>
-            <li><a href="#">Electricité</a></li>
-            <li><a href="#">Menuiserie</a></li>
+            <li><a href="bathroom.php">Salle de bain</a></li>
+            <li><a href="electricity.php">Electricité</a></li>
+            <li><a href="wood.php">Menuiserie</a></li>
             <li><a href="contact.php">Contactez-moi !</a></li>
         </ul>
     </div>

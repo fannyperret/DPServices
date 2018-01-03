@@ -21,39 +21,33 @@
 </head>
 <body>
 
+<?php include ('header.php') ?>
+
 <div class="container">
-
-    <?php include ('header.php') ?>
-
     <div class="jumbotron">
         <h1>DP SERVICES (26) : PLOMBERIE & DEPANNAGE</h1>
         <p>INTERVENTION : MALISSARD - CHABEUIL - MONTVENDRE - MONTMEYRAN - BEAUVALLON - ETOILE - UPIE - VALENCE</p>
     </div>
-
     <div class="container">
         <div class="row">
-            <div class="col-md-3">
+            <div class="col-md-4">
                 <img src="http://img1.imagilive.com/1017/tap-572432.jpg" class="img-responsive img-rounded" alt="Responsive image">
             </div>
-            <div class="col-md-offset-3 col-md-6">
+            <div class="col-md-8 bath">
                 <h2>ACTIVITES : VENTE / INSTALLATION / DEPANNAGE</h2>
-                <p>Plombier professionnel je suis à votre écoute pour refaire votre salle de bain ou pour un dépannage en toute tranquillité !</p>
-                <h3>Pour prendre rendez-vous :</h3>
+                <p>DP SERVICES est une entreprise de proximité située à Beaumont-lès-Valence (26) depuis 2005. Nos prestations sont réalisées dans des délais courts notamment les dépannages et réparations de plomberie et d'électricité.<br/>
+                    Pour des consultations relatives à vos besoins (installations, modifications, réparations) nos devis sont GRATUITS.<br/>
+                    Nos prestations sont couvertes par une assurance : Responsabilité Civile et Décennale</p>
+                <h2>Pour prendre rendez-vous :</h2>
                 <p>Fixe : 04 75 59 57 67<br/>
                     Portable : 06 80 41 58 25<br/>
                     Email : contact@dpservices26.fr</p>
-                <h3>Mon adresse :</h3>
-                <p>17 rue des Constellations<br/>
-                    26 760<br/>
-                    BEAUMONT-LES-VALENCE</p>
-                <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
             </div>
         </div>
     </div>
-
-    <?php include ('footer.php') ?>
 </div>
 
+<?php include ('footer.php') ?>
 
 </body>
 
