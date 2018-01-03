@@ -1,25 +1,16 @@
-nav {
-    background-color: aquamarine;
-}
-
-.image_robinet {
-    background: url(http://img1.imagilive.com/1017/tap-572432.jpg);
-}
-
-.image_robinet p {
-    color: white;
-}
 
 h3, h2 {
     background-color: lightgray;
 
 }
 
-nav {
-    font-weight: 100px;
+.nav {
+
+    font-size: 1.3em;
 }
 
 footer {
+    background-color: black;
     text-align: center;
     color: orange;
     margin-top: 50px;
