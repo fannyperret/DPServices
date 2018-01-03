@@ -26,8 +26,8 @@
     <?php include ('header.php') ?>
 
     <div class="jumbotron">
-        <h1>DP SERVICES : PLOMBERIE & DEPANNAGE</h1>
-        <p>Plombier professionnel dans la Drôme (26), je suis à votre écoute pour refaire votre salle de bain ou un dépannage en toute tranquillité !</p>
+        <h1>DP SERVICES (26) : PLOMBERIE & DEPANNAGE</h1>
+        <p>INTERVENTION : MALISSARD - CHABEUIL - MONTVENDRE - MONTMEYRAN - BEAUVALLON - ETOILE - UPIE - VALENCE</p>
     </div>
 
     <div class="container">
@@ -52,7 +52,8 @@
     </div>
 
     <?php include ('footer.php') ?>
-
 </div>
+
+
 </body>
 
