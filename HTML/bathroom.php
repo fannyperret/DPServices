@@ -46,3 +46,7 @@
 </div>
 
 <?php include('Components/footer.php') ?>
+curl -u 'XXXX’ https://api.github.com/user/repos -d '{"name":"YYYY"}'
+git remote add origin git@github.com:XXXX/YYYY.git
+
+
