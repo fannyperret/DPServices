@@ -4,7 +4,7 @@
     <title>Dp Services Plombier Depannage</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="CSS/dpservices.css" type="text/css" media="screen"/>
+    <link rel="stylesheet" href="../CSS/dpservices.css" type="text/css" media="screen"/>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
     <!------ OTHERS OPTIONS ----------------
@@ -14,7 +14,7 @@
 
 </head>
 
-<?php include ('header.php') ?>
+<?php include('Components/header.php') ?>
 
 <div class="container">
     <div id="contact">
@@ -42,7 +42,7 @@
     </div>
 </div>
 
-<?php include ('footer.php') ?>
+<?php include('Components/footer.php') ?>
 
 
 

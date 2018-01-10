@@ -4,17 +4,16 @@
     <title>Dp Services Plombier Depannage</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="CSS/dpservices.css" type="text/css" media="screen"/>
+    <link rel="stylesheet" href="../CSS/dpservices.css" type="text/css" media="screen"/>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
     <!------ OTHERS OPTIONS ----------------
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     ----------->
-
 </head>
 
-<?php include ('header.php') ?>
+<?php include('Components/header.php') ?>
 
 <div class="container">
     <div id="bathroom">
@@ -46,4 +45,4 @@
     </div>
 </div>
 
-<?php include ('footer.php') ?>
+<?php include('Components/footer.php') ?>

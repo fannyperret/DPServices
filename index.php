@@ -21,7 +21,7 @@
 </head>
 <body>
 
-<?php include ('header.php') ?>
+<?php include('HTML/Components/header.php') ?>
 
 <div class="container">
     <div class="jumbotron">
@@ -47,7 +47,7 @@
     </div>
 </div>
 
-<?php include ('footer.php') ?>
+<?php include('HTML/Components/footer.php') ?>
 
 </body>
 
