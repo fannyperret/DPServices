@@ -3,17 +3,12 @@
 <head>
     <title>Dp Services Plombier Depannage</title>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="../CSS/dpservices.css" type="text/css" media="screen"/>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <?php include('../include/head.php'); ?>
 
-    <!------ OTHERS OPTIONS ----------------
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    ----------->
 </head>
+<body>
 
-<?php include('Components/header.php') ?>
+<?php include('../include/header.php'); ?>
 
 <div class="container">
     <div id="bathroom">
@@ -45,8 +40,8 @@
     </div>
 </div>
 
-<?php include('Components/footer.php') ?>
-curl -u 'XXXX’ https://api.github.com/user/repos -d '{"name":"YYYY"}'
-git remote add origin git@github.com:XXXX/YYYY.git
+<?php include('../include/footer.php'); ?>
+
+</body>
 
 
