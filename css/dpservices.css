@@ -1,4 +1,6 @@
-
+body p {
+    font-size: 1.2em;
+}
 
 .nav {
 
@@ -9,18 +11,20 @@ img {
     margin-top: 5%;
 }
 
-#contact {
-   margin-top: 10%;
-
+.container-fluid {
+   margin-top: 5%;
 }
 
 #bathroom {
     margin-top: 12%;
-
 }
 
-.phone {
-    margin-top: 10%;
+#electricity {
+    margin-top: 12%;
+}
+
+#wood {
+    margin-top: 12%;
 }
 
 footer {

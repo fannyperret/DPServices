@@ -10,13 +10,11 @@
 
 <?php include('../include/header.php') ?>
 
-<div class="container">
+<div class="container-fluid">
     <div id="contact">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-6 col-md-offset-3">
                 <img src="http://www.callcenterilemaurice.com/wp-content/uploads/2017/03/telephone1.jpg" class="img-responsive img-rounded" alt="Responsive image">
-            </div>
-            <div class="col-md-6 phone">
                 <h1>Contactez-nous !</h1>
                 <p>Plombier professionnel je suis à votre écoute pour refaire votre salle de bain ou pour un dépannage en toute tranquillité !</p>
                 <h2>Pour prendre rendez-vous</h2>

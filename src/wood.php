@@ -11,7 +11,7 @@
 <?php include('../include/header.php') ?>
 
 <div class="container">
-    <div id="contact">
+    <div id="wood">
         <div class="row">
             <div class="col-md-6">
                 <img src="https://www.orion-menuiseries.com/images/pages/porte-fenetre-alu-salon-1.jpg" class="img-responsive img-rounded" alt="Responsive image">

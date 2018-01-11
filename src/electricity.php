@@ -11,7 +11,7 @@
 <?php include('../include/header.php') ?>
 
 <div class="container">
-    <div id="contact">
+    <div id="electricity">
         <div class="row">
             <div class="col-md-6">
                 <img src="https://www.perriard-electricite.ch/uploads/2f9f1fc823994cd58c4f161ed30240df.jpg" class="img-responsive img-rounded" alt="Responsive image">
